@@ -1,0 +1,7 @@
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\bin\Debug\CS OGFN Backend.exe.config
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\bin\Debug\CS OGFN Backend.exe
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\bin\Debug\CS OGFN Backend.pdb
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\obj\Debug\CS OGFN Backend.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\obj\Debug\CS OGFN Backend.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\obj\Debug\CS OGFN Backend.exe
+D:\Visual Studio 2022\CS OGFN Backend\CS OGFN Backend\obj\Debug\CS OGFN Backend.pdb
